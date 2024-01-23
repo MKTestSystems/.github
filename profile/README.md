@@ -1,5 +1,5 @@
 # Common Libraries
-[Leopard Library - leo_common)[https://github.com/MKTestSystems/leo_common]
+(Leopard Library - leo_common)[https://github.com/MKTestSystems/leo_common]
 (Utilities - utils)[https://github.com/MKTestSystems/utils]
 
 # BLTU4C
