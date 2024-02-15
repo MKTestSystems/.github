@@ -6,6 +6,8 @@
 # [BLTU4C](https://github.com/orgs/MKTestSystems/projects/3)
 - [BMCU                -  blr-0101](https://github.com/MKTestSystems/blr-0101)
 - [Loop & Joint        -  blr-0113](https://github.com/MKTestSystems/blr-0113)
+- [Bond                -  blr-0112](https://github.com/MKTestSystems/blr-0112)
+- [BLR Common          -  blr-common](https://github.com/MKTestSystems/blr-common)
 
 # [MSTU](https://github.com/orgs/MKTestSystems/projects/4)
 - [Generic Controller  -  leo-6904](https://github.com/MKTestSystems/leo-6904)
